@@ -1,6 +1,14 @@
 #EXTM3U 
 ####### BEIN SPORT ##########
-#EXTNF:-1,STAR SPORT
+
+
+#EXTINF:-1,ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1,STAR SPORT
 http://31.172.87.31:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1,beIN Sports 1 HD Premium
 http://145.239.142.113/BEIN-1-SD/mpegts
